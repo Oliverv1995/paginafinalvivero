@@ -70,7 +70,7 @@
                                 <div class="form-group">
                                     <label>Decripción</label>
                                     <input type="text" class="form-control" style="WIDTH: 1080px; HEIGHT: 98px" 
-                                        size=32 name=text1 name="descripcion" placeholder="">
+                                        size=32 name="descripcion" placeholder="">
                                 </div>
                                 <div style="text-align: right;width:1080px">
                                 <button type="submit" class="btn btn-success">Enviar</button>
